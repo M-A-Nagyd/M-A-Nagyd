@@ -40,13 +40,6 @@ class whoami:
 
 <br>
 
-### recently
-
-- opened [`NVIDIA/numba-cuda-mlir#311`](https://github.com/NVIDIA/numba-cuda-mlir/pull/311) — fixing `Array.reshape()` returning a wrong view when order doesn't match layout
-- building [`stock-predict-ai`](https://github.com/M-A-Nagyd/stock-predict-ai) — applying models to markets, mostly to see where the math breaks
-
-<br>
-
 <div align="center">
 
 [nagyd1636@gmail.com](mailto:nagyd1636@gmail.com)

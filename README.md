@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README
-  Setup: create a repo named EXACTLY your GitHub username (a special "profile" repo),
-  and put this file in it as README.md. Replace every <bracketed> placeholder below.
--->
-
 <div align="center">
 
 # hey, I'm Nagyd 👋
@@ -46,10 +40,10 @@ class whoami:
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-A-Nagyd&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&theme=dark&bg_color=00000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-Nagyd&layout=compact&hide_title=true&hide_border=true&theme=dark&bg_color=00000000" height="150"/>
-</div>
+### recently
+
+- opened [`NVIDIA/numba-cuda-mlir#311`](https://github.com/NVIDIA/numba-cuda-mlir/pull/311) — fixing `Array.reshape()` returning a wrong view when order doesn't match layout
+- building [`stock-predict-ai`](https://github.com/M-A-Nagyd/stock-predict-ai) — applying models to markets, mostly to see where the math breaks
 
 <br>
 

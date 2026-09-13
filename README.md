@@ -42,6 +42,18 @@ class whoami:
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-A-Nagyd/M-A-Nagyd/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-A-Nagyd/M-A-Nagyd/output/snake.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/M-A-Nagyd/M-A-Nagyd/output/snake.svg" />
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
 [nagyd1636@gmail.com](mailto:nagyd1636@gmail.com)
 
 </div>
